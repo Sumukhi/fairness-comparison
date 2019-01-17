@@ -8,7 +8,7 @@ pip==9.0.1
 pyparsing==2.1.4
 python-dateutil==2.6.0
 pytz
-readline==6.2
+pyreadline==2.1
 scikit-learn==0.18.1
 scipy==0.19.0
 six==1.10.0
